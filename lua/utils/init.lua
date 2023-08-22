@@ -9,12 +9,9 @@ M.servers = {
   "bashls",
   "jsonls",
   "yamlls",
-  "vue-language-server",
-  "emmet-ls",
+  "volar",
   "intelephense",
-  "kotlin-language-server",
-  "prettier",
-  "typescript-language-server"
+  "tsserver"
 
 }
 
