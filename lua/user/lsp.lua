@@ -57,6 +57,9 @@ function M.config()
     end
 
     lspconfig[server].setup(Opts)
+    -- My preferred lspconfig
+    lspconfig["dartls"].setup(Opts)
+    -- lspconfig.dartls.setup {}
   end
 
   local signs = {

@@ -11,7 +11,7 @@ M.servers = {
   "yamlls",
   "volar",
   "intelephense",
-  "tsserver"
+  "tsserver",
 
 }
 
