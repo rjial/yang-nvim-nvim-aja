@@ -58,7 +58,6 @@ function M.config()
 
     lspconfig[server].setup(Opts)
     -- My preferred lspconfig
-    lspconfig["dartls"].setup(Opts)
     -- lspconfig.dartls.setup {}
   end
 
